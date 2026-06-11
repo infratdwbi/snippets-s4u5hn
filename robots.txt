@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://infratdwbi.github.io/snippets-s4u5hn/sitemap.xml
